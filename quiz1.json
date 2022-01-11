@@ -1,0 +1,20 @@
+{
+   "ques1" : [
+    "1.What is your name?",
+    "2.which state you live",
+    "3.What do u study",
+    "4.The support",
+    "5.Which statement is correct about you?"
+    ],
+
+    "options1" : [
+    ["john", "dil", "wood", "Jay"],
+    ["Ny","NJ","CA","TX"],
+    ["CCNA", "COMPTIA", "AWS-P", "AWS-A"],
+    ["list","bool","str","int"],
+    ["Love", "Hate", "like me", "Fight"]
+    ],
+
+    "ans" : [ 1, 1, 1, 1, 1]
+
+}
